@@ -1,0 +1,2 @@
+# FoolHack
+### a Sails application
