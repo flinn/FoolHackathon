@@ -69,7 +69,7 @@ h1 {
 	margin-top: -5px;
 	font-weight: bolder;
 	font-family: "Lato";
-	color: #275184;
+	color: #434343;
 }
 
 h3 {
@@ -107,12 +107,12 @@ p {
     margin-bottom: 25px;
 }
 
-.tab-pane p > a {
+.tab-pane a {
 	color: #1A416E;
 	font-weight: bolder;
 }
 
-.tab-pane p > a:hover {
+.tab-pane a:hover {
 	color: #BF2320;
 	font-weight: bolder;
 }
