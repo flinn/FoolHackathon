@@ -58,6 +58,12 @@ body {
 	color: White;
 }
 
+.bottom-img {
+	height: 100%;  
+  vertical-align: bottom;
+  display: table-cell;
+}
+
 /* Titles */
 h2, h3, h4, h5, h6 {
     font-family: "Raleway";
