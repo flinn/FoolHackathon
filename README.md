@@ -1,4 +1,4 @@
 # FoolHackathon website
 
-#### Visit hack.fool.com for details ####
+#### Visit http://hack.fool.com for details ####
 
