@@ -1,6 +1,4 @@
 # FoolHackathon website
 
-### A Sails application ###
-
-#### Visit http://foolhack.herokuapp.com/ for more updated details ####
+#### Visit hack.fool.com for details ####
 
